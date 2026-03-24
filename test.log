@@ -1,0 +1,9 @@
+echo "System booted normally" > test.log
+echo "ERROR: Failed to load module" >> test.log
+echo "Warning: High memory usage" >> test.log
+echo "User logged in" >> test.log
+echo "error: network disconnected" >> test.log
+echo "Error: retry attempt 1" >> test.log
+echo "ERROR: retry attempt 2" >> test.log
+echo "ERROR: retry attempt 3" >> test.log
+echo "System shutdown" >> test.log
